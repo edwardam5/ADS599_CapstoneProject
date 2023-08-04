@@ -19,13 +19,13 @@ Saba Alemayehu and Anusia Edward
 The purpose of this study is to aid health care professionals, such as doctors and nurses, to identify at-risk patients in order to provide prevention methods needed to help their patients be proactive with managing their health. In order for this to be carried out the following seven machine learning algorithms were built: Logistic Regression, Neural Network, Random Forest, Linear Discriminant Analysis, Naive Bayes, K-Nearest Neighbor, and Decision Tree. The model that produced the best results was noted to be the Logistic Regression model with an accuracy of 92% and an AUC score of 0.84. The seven models can be ranked as follows from greatest predictability to least predictability: Logistic Regression, Neural Network, Random Forest, Linear Discriminant Analysis, Naive Bayes, K-Nearest Neighbor, and Decision Tree. The top three indicators of the Logistic Regression model were found to be general health, age, and history of strokes. Future studies can expand on the current research through the expansion of the research length to include longitudinal data. 
 
 ## Table of Contents
-* Business Background
-* Problem Statement
-* Summary of Findings 
-* Business Question
-* Approach 
-* Limitations 
-* Call to Action 
+* [Business Background](https://github.com/edwardam5/ADS599_CapstoneProject/tree/main#business-background)
+* [Problem Statement](https://github.com/edwardam5/ADS599_CapstoneProject/tree/main#problem-statement)
+* [Summary of Findings](https://github.com/edwardam5/ADS599_CapstoneProject/tree/main#summary-of-findings) 
+* [Business Question](https://github.com/edwardam5/ADS599_CapstoneProject/tree/main#business-question)
+* [Approach](https://github.com/edwardam5/ADS599_CapstoneProject/tree/main#approach) 
+* [Limitations](https://github.com/edwardam5/ADS599_CapstoneProject/tree/main#limitations) 
+* [Call to Action](https://github.com/edwardam5/ADS599_CapstoneProject/tree/main#call-to-action) 
 
 ## Business Background
 Heart disease claims approximately 17.9 million lives worldwide (World Health Organization: WHO, 2019). On a national level, roughly 2,000 people die in the United States each day from this disease (Heart Disease and Stroke Statistics - 2020 Update, n.d.). Heart disease can be attributed to a variety of factors including smoking, alcoholism, poor dietary choices, and lack of exercise (CDC Heart Disease Facts, 2023). Common biomarkers that indicate the risk of heart disease include cholesterol and blood pressure values. Heart disease encompasses different types of diseases affecting the heart such as heart attacks and coronary artery disease. As one of the leading causes of death in the United States, it is imperative that measures are taken to identify and reduce the prevalence of these deaths among at-risk populations (CDC Heart Disease Facts, 2023). 
