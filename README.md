@@ -13,7 +13,7 @@ Download the project code from this GitHub repository and run cells. This can be
 * ```git clone https://github.com/edwardam5/ADS599_CapstoneProject.git``` 
 
 ## Contributors
-Saba Alemayehu and Anusia Edward
+Anusia Edward and Saba Alemayehu 
 
 ## Notebook Breakdown 
 <p align="center">
