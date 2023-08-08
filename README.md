@@ -15,6 +15,12 @@ Download the project code from this GitHub repository and run cells. This can be
 ## Contributors
 Saba Alemayehu and Anusia Edward
 
+## Notebook Breakdown 
+<p align="center">
+<img width="1440" alt="Screen Shot 2023-08-08 at 12 07 36 AM" src="https://github.com/edwardam5/ADS599_CapstoneProject/assets/107288109/48f160a0-a241-4e82-acf2-c832ec56d81b">
+
+
+
 ## Abstract 
 An overload of patients has caused an extensive burden on the limited health care staff. To alleviate this issue, the purpose of this study is to aid health care professionals to identify at-risk patients in order to provide prevention methods needed to help patients be proactive with managing their health. The data was initially collected through a health-related telephone survey conducted by the Behavioral Risk Factor Surveillance System (BRFSS) for U.S. residents in conjunction with the Centers for Disease Control and Prevention (CDC). In order for this to be carried out, the following six machine learning algorithms were built: Logistic Regression, Neural Network, Random Forest, Linear Discriminant Analysis, Naive Bayes, and Decision Tree. These models were evaluated using the following metrics: Precision, Recall, F1, Accuracy, and ROC. It was observed that all six machine learning models provided evidence for the hypothesis that machine learning models can help identify at-risk heart disease patients. Future studies can expand on the current research through the expansion of the research length to include longitudinal data and incorporate further demographic characteristics. 
 
