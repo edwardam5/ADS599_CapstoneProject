@@ -69,3 +69,6 @@ Some potential limitations of this study that should be considered are as follow
 
 ## Call to Action 
 In the future, the study can expand on the current research through a few different methods. First, the Neural Network model can be retested in order to find ways in which it can be improved to better predict heart disease. Also, in the future the impact of each of the attributes could also be further investigated. Subgroup analyses could additionally be conducted on the data to further determine new insights. An example of a subgroup analysis that could further the knowledge gained in this study would be to subset the information by race, sex, or age. These facets of the study may introduce interesting insights. In the future, researchers should also consider including additional demographic attributes such as socioeconomic status, financial burdens, place of residence, occupation, and educational level to expand on knowledge of social factors in relation to heart disease. Another addition to the data that could aid with improving this study would be the inclusion of longitudinal data. Longitudinal data may better help with predicting whether or not individuals are at-risk for heart disease. 
+
+## Video Presentation 
+Link: [https://youtu.be/6j2Z1QzbEpM?si=mPAWtESd2BiXR5J5 ](https://youtu.be/6j2Z1QzbEpM)
